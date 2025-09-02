@@ -2,6 +2,11 @@
 <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F7006E&background=CBFF4C00&center=true&vCenter=true&width=440&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Mohraeel+George....;Nice+to+meet+you+%F0%9F%A5%B0" alt="Typing SVG" />
 </a>
+ 
+<h1 align="center">Hi 👋, I'm Mohraeel George</h1>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohraeel-george" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto:mohraeelgeorge10@gmail.com" title="Gmail"><img width="22" src="images/gmail.png"> Gmail</a></code>
@@ -10,8 +15,7 @@
 
 <br>
 
-<p align="center">
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
+<p align="left">
   🎓 I'm a Computer Science Student at Mansoura University <br>
   💻 Flutter Developer passionate about Mobile App Development <br>
   🚀 I love building clean and functional applications <br>
