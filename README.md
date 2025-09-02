@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
   🎓 I'm a Computer Science Student at Mansoura University <br>
   💻 Flutter Developer passionate about Mobile App Development <br>
   🚀 I love building clean and functional applications <br>
