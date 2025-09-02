@@ -6,14 +6,14 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mohraeel-george" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="www.linkedin.com/in/mohraeel-george-418519302" title="LinkedIn Profile"><img width="22" src="[images/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png)"> LinkedIn</a></code>
   <code><a href="mailto:mohraeelgeorge10@gmail.com" title="Gmail"><img width="22" src="images/gmail.png"> Gmail</a></code>
   <code><a href="https://github.com/mohraeel" title="GitHub"><img width="22" src="images/github.svg"> GitHub</a></code>
 </h5>
 
 <br>
 
-<p >
+<p align="left">
   🎓 I'm a Computer Science Student at Mansoura University <br>
   💻 Flutter Developer passionate about Mobile App Development <br>
   🚀 I love building clean and functional applications <br>
