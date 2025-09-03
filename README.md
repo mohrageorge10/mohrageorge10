@@ -46,23 +46,36 @@
 
 
 <h2 align="center">📱 Projects 📱</h2>
-<p align="center">
-  <a href="https://github.com/mohraeel/login-app" title="Login App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=login-app&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/mohraeel/xo-game" title="XO Game">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=xo-game&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/mohraeel/linear-system-solver" title="Linear System Solver">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=linear-system-solver&theme=react&border_color=61dafb&border_radius=10">
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/mohrageorge10/bmi_calculator/tree/master" title="BMI Calculator">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=login-app&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/mohraeel/todo-app" title="To-Do List App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=todo-app&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/mohraeel/xo-game" title="XO Game">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=xo-game&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</p>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/mohraeel/linear-system-solver" title="Linear System Solver">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=linear-system-solver&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="left" href="https://github.com/mohraeel/todo-app" title="To-Do List App">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=todo-app&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/mohrageorge10/bmi_calculator" title="BMI Calculator">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohrageorge10&repo=bmi_calculator&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <!-- هنا ممكن تحطي مشروع جديد ناحية الشمال -->
+</div>
 
 <h4 align="center">
   <a href="https://github.com/mohraeel?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
