@@ -40,42 +40,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </p>
 
-
-
 <hr>
 
 
 <h2 align="center">📱 Projects 📱</h2>
+
 <br>
 
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/mohrageorge10/bmi_calculator/tree/master" title="BMI Calculator">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=login-app&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="left" href="https://github.com/mohraeel/xo-game" title="XO Game">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=xo-game&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/mohraeel/linear-system-solver" title="Linear System Solver">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=linear-system-solver&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="left" href="https://github.com/mohraeel/todo-app" title="To-Do List App">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohraeel&repo=todo-app&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/mohrageorge10/bmi_calculator" title="BMI Calculator">
+ <a align="right" href="https://github.com/mohrageorge10/bmi_calculator" title="BMI Calculator">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohrageorge10&repo=bmi_calculator&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <!-- هنا ممكن تحطي مشروع جديد ناحية الشمال -->
+  </a>  
 </div>
+
+<br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/mohrageorge10/solve_system" title="Solve Linear System Equations">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohrageorge10&repo=solve_system&theme=react&border_color=61dafb&border_radius=10">
+  </a>  
+</div>
+
+<br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+ <a align="right" href="https://github.com/mohrageorge10/xo_game" title="XO Game">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohrageorge10&repo=xo_game&theme=react&border_color=61dafb&border_radius=10">
+  </a>  
+</div>
+
+<br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/mohraeel?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
@@ -84,11 +78,9 @@
 <hr>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=mohraeel&theme=react&border=61dafb&hide_border=true" alt="streak"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mohraeel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohraeel&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohrageorge10&show_icons=true&theme=react&border_color=61dafb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohrageorge10&layout=compact&langs_count=8&theme=react&border_color=61dafb" />
 </p>
+
