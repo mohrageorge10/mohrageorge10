@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F7006E&background=CBFF4C00&center=true&vCenter=true&width=440&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Mohraeel+George....;Nice+to+meet+you+%F0%9F%A5%B0" alt="Typing SVG" />
 </a>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
+
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/username/" target="_blank">
@@ -18,6 +18,7 @@
 </h5>
 
 <br>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 
 <p align="left">
   🎓 I'm a Computer Science Student at Mansoura University <br>
