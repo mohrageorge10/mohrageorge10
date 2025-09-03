@@ -3,9 +3,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F7006E&background=CBFF4C00&center=true&vCenter=true&width=440&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Mohraeel+George....;Nice+to+meet+you+%F0%9F%A5%B0" alt="Typing SVG" />
 </a>
 
-
-<h1 align="center">Hi 👋, I'm Mohraeel George</h1>
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 
 <h5 align="center">
@@ -18,16 +15,6 @@
   <a href="https://github.com/mohraeel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
   </a>
-</h5>
-
-
- 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
-
-<h5 align="center">
-  <code><a href="www.linkedin.com/in/mohraeel-george-418519302" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png"> LinkedIn</a></code>
-  <code><a href="mailto:mohraeelgeorge10@gmail.com" title="Gmail"><img width="22" src="images/gmail.png"> Gmail</a></code>
-  <code><a href="https://github.com/mohraeel" title="GitHub"><img width="22" src="images/github.svg"> GitHub</a></code>
 </h5>
 
 <br>
