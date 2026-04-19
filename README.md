@@ -13,8 +13,6 @@
 </h5>
 
 <br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
-
 <p align="left">
   🎓 I'm a Computer Science Student at Mansoura University <br>
   💻 Flutter Developer passionate about Mobile App Development <br>
